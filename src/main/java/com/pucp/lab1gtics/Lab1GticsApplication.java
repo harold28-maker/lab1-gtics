@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Lab1GticsApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(Lab1GticsApplication.class, args);
+		System.out.println("hola mundo");
 	}
 
 }
