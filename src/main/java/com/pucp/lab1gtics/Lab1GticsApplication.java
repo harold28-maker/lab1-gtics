@@ -13,7 +13,7 @@ public class Lab1GticsApplication {
 
 
 		SpringApplication.run(Lab1GticsApplication.class, args);
-		System.out.println("hola mundo");
+		System.out.println("hola mundo desde ña rama de feature");
 	}
 
 }
